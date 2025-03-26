@@ -1,16 +1,26 @@
-## Hi there 👋
+## 🌌 Hi there!   ˙  . ⋆˚. 🪐 ⋆˚. ˙
+I'm Alina, a 21-year-old student learning Information Technologies at Kuban State University, Russia. I'm passionate about Android development, software engineering, and UX/UI design. Currently, I'm learning Java and Kotlin, and I'm working on building Android apps.
 
-<!--
-**The-uncanny-valley/The-uncanny-valley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Skills & Interests
+- **Languages**: Java, Kotlin, SQL
+- **Development**: Android Studio
+- **Design**: Figma
+- **Projects**: Flashcard app
 
-Here are some ideas to get you started:
+### 🕮 Learning
+- Expanding my knowledge in Android development
+- Improving my database and SQL skills
+- Exploring new programming concepts and best practices
+- Enhancing my UX/UI design skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🗒 Goals
+- Build and publish an Android app
+- Gain experience through an internship as an Android developer
+- Contribute to open-source projects
+
+### 🖂 Connect with me
+- GitHub: [The-uncanny-valley](https://github.com/The-uncanny-valley)
+- Email: runcannyvalley@gmail.com
+
+
+•             .     •           .• ●   .   •             .     •           .•          •             .     •           .•                          ●   .   •             .     •           .•                ●   .   •         •             .     •           .• ●   .   •             .     •           .•          •             .     •           .•                          ●   .   •             .     •           .•                ●   .   •            
