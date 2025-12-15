@@ -1,5 +1,5 @@
 ## 🌌 Hi there!   ˙  . ⋆˚. 🪐 ⋆˚. ˙
-I'm Alina, a 22-year-old student learning Information Technologies at Kuban State University, Russia. I'm passionate about Android development, software engineering, and UX/UI design.
+I'm Alina, a 22-year-old living in Krasnodar, Russia. I'm passionate about Android development, software engineering, and UX/UI design.
 
 ### 🛠 Tech Stack
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -12,8 +12,7 @@ I'm Alina, a 22-year-old student learning Information Technologies at Kuban Stat
 - Enhancing my UX/UI design skills
 
 ### 🗒 Goals
-- Build and publish an Android app
-- Gain experience as an Android developer
+- Build awesome Android app
 - Contribute to open-source projects
 
 ### 🖂 Connect with me
